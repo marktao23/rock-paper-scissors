@@ -1,8 +1,8 @@
-# Mark Tao coding exercise: rock paper scissors
+# Coding Sample 2: rock paper scissors
 
 ## Design Spec
 
-As stated in the instructions, the goal of this exercise is to write a class (implementing object-oriented principles) in which N players play rock paper scissors. No less than 2 and no more than 10 players play at a time.
+The goal of this exercise is to write a class (implementing object-oriented principles) in which N players play rock paper scissors. No less than 2 and no more than 10 players play at a time.
 
 Number of players are randomly selected, and are removed from a hashtable data structure as they lose the game. Their moves are also randomly decided. The rules are as follows:
     * Scissors beats Paper
